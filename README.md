@@ -14,11 +14,14 @@ Um jogo de plataforma 2D onde você controla Chapolin Colorado. Por enquanto, ap
 ## Como Jogar
 
 - Crie uma pasta
+- Abra o VSCode
 - Clone o repositório
-- Abra a pasta no VSCode
+- Instale a extensão 'Live Server' 
 - Selecione "Chapolin.html"
-- Go Live
+- Clique em 'Go Live' no canto inferior direito da interface do VSCode (se o Live Server estiver instalado corretamente ela deve aparecer ali)
 - Divirta-se :)
+
+PS: O jogo não funciona se a pagina for aberta direta do arquivo, é preciso que se crie um servidor. 
 
   ## Tutorial
 

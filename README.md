@@ -37,7 +37,12 @@ Um jogo de plataforma 2D onde você controla Chapolin Colorado. Por enquanto, ap
 
   ## Versão
 
-  pre-aplha_build_0-1 HTML version 
+  pre-aplha_build_0-1 HTML version
+
+  ## Licença
+
+Este projeto está licenciado sob a [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Você pode jogar e compartilhar, mas **não pode modificar, vender ou usar comercialmente**.
  
   
 
